@@ -1,3 +1,3 @@
 export default function() {
-  cnosle.log("I get called fromt print.js");
+  console.log("I get called fromt print.js with dev serve");
 }
